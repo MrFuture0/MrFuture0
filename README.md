@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C++,C#,Unity And Unreal Game Engine**
 
-- 📫 How to reach me **haliler921@gmail.com**
+- 📫 How to reach me:  **haliler921@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
