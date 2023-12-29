@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Halil</h1>
-<h3 align="center">A passionate game developer</h3>
+<h3 align="center">Embedded Software Developer</h3>
 
-- 🌱 I’m currently learning **OpenGl,Vulkan Engine**
+- 🌱 I’m currently learning **STM32,TIRTOS and other embedded system**
 
-- 💬 Ask me about **C++,C#,Unity And Unreal Game Engine**
+- 💬 Ask me about **C++,C,Py**
 
 - 📫 How to reach me:  **haliler921@gmail.com**
 
