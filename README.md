@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halil</h1>
-<h3 align="center">Embedded Software Developer</h3>
+<h3 align="center">Game/ Embedded Software Developer</h3>
 
 - 🌱 I’m currently learning **STM32,TIRTOS and other embedded system**
 
