@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **STM32,TIRTOS and other embedded system**
 
-- 💬 Ask me about **C++,C,Py**
+- 💬 Ask me about **C++,C,C#**
 
 - 📫 How to reach me:  **haliler921@gmail.com**
 
