@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halil</h1>
-<h3 align="center">Game/ Embedded Software Developer</h3>
-
-- 🌱 I’m currently learning **STM32,TIRTOS and other embedded system**
+<h3 align="center"> Software Engineer</h3>
 
 - 💬 Ask me about **C++,C,C#**
-
 - 📫 How to reach me:  **haliler921@gmail.com**
 
 
